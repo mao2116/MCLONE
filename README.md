@@ -28,7 +28,10 @@ cd MCLONE
 
 python mclone.py
 
+# user and pass :
 
+## user : mao
 
+## pass : 2116
 
 # Wait For Full Update
